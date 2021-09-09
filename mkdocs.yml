@@ -9,6 +9,10 @@ theme:
     text: IBM Plex Sans
     code: IBM Plex Mono
 
+extra:
+  version:
+    provider: mike
+
 nav:
   - Overview: index.md
   - How it Works: howitworks.md
